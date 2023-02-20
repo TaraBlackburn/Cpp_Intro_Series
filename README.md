@@ -10,5 +10,5 @@ Stay tuned for more!
 
 [>| Change your thinking. Let’s learn C++ more efficiently. ](https://medium.com/@tinycosmostara/change-your-thinking-lets-learn-c-more-efficiently-fda24072b2f9)
 
-[Hello,Wolrd! This is C++. ](https://medium.com/@tinycosmostara/hello-world-this-is-c-4e288993b46b)
+[Hello, World! This is C++. ](https://medium.com/@tinycosmostara/hello-world-this-is-c-4e288993b46b)
 
